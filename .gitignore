@@ -1,0 +1,4 @@
+applications/
+profile/resume.md
+evals/tmp-*
+__pycache__/

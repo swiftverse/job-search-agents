@@ -1,0 +1,13 @@
+ok    bigger-role        expected REVISE   got REVISE
+ok    clean              expected PASS     got PASS
+ok    fake-employer      expected REVISE   got REVISE
+ok    fake-skill         expected REVISE   got REVISE
+ok    hidden-note        expected REVISE   got REVISE
+ok    inflated-number    expected REVISE   got REVISE
+ok    letter-fake-claim  expected REVISE   got REVISE
+ok    letter-fake-company expected REVISE   got REVISE
+ok    promoted-title     expected REVISE   got REVISE
+ok    hopeless           expected SKIP     got SKIP
+ok    near-miss          expected STRETCH  got STRETCH
+ok    strong             expected APPLY    got APPLY
+12/12 passed
